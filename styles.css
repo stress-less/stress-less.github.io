@@ -1,11 +1,13 @@
-h1 {
+body {
   font-family: 'Aref Ruqaa', serif;
   text-align: center;
-  font-size: 75px;
-  margin: 60px 0 0 0;
-  color: white;
 }
 
-body {
-  background: #54d154;
+h1 {
+  font-size: 75px;
+  color: violet;
+}
+
+p {
+  font-size: 40px;
 }
