@@ -3,25 +3,28 @@ h1#recipe {
 
 }
 body {
-  font: 'Playfair Display', serif;
-  background-image: url("calmwaters.jpg");
+  background-image: url("pexels-photo-875858.jpg");
   background-size: cover;
 
 }
 h1#title {
+  font-family: 'Indie Flower', cursive;
   font-size: 50px;
   text-align: center;
-  color: #aaaaaa;
+  color:#8b008b;
   text-decoration: underline;
 }
 h2 {
 text-decoration: underline;
 }
 p {
-  color: #000066;
+  color: #8b008b;
   font-size: 20px;
 }
 ul {
   font-size: 20px;
-  color: #000066;
+  color:#8b008b;
+}
+p#light {
+  color:#8b008b;
 }
