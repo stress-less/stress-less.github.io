@@ -11,7 +11,11 @@ h1#title {
   font-family: 'Indie Flower', cursive;
   font-size: 50px;
   text-align: center;
+<<<<<<< HEAD
   color:#8b008b;
+=======
+  color: black;
+>>>>>>> 29b56c9255d4e5a90e205996c43e4d0ecbf22d97
   text-decoration: underline;
 }
 h2 {
