@@ -2,3 +2,26 @@ h1#recipe {
   font-family: 'Indie Flower', cursive;
 
 }
+body {
+  font: 'Playfair Display', serif;
+  background-image: url("calmwaters.jpg");
+  background-size: cover;
+
+}
+h1#title {
+  font-size: 50px;
+  text-align: center;
+  color: #aaaaaa;
+  text-decoration: underline;
+}
+h2 {
+text-decoration: underline;
+}
+p {
+  color: #000066;
+  font-size: 20px;
+}
+ul {
+  font-size: 20px;
+  color: #000066;
+}
